@@ -1,0 +1,8 @@
+flask
+flask-cors
+ultralytics
+torch
+pillow
+werkzeug
+requests
+geopy
